@@ -5,7 +5,7 @@ Website for H30 SPECTRA
 Repository Link: https://github.com/zekedomz/h30-spectra
 
 ## Deployed Application Link
-Deployed Application Link: https://zekedomz.github.io/zekes-portfolio-website/
+Deployed Application Link: https://zekedomz.github.io/h30spectra/
 
 ## Project Screenshot
 NA
