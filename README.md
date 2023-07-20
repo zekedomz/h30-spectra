@@ -1,4 +1,4 @@
-# h30-spectra
+# h30spectra
 Website for H30 SPECTRA
 
 ## Repository Link
